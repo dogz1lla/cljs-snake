@@ -1,0 +1,4 @@
+^{:auto-bundle :webpack
+  :watch-dirs ["src"]
+  :css-dirs ["resources/public"]}
+{:main cljs-snake.app}
